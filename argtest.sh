@@ -24,5 +24,5 @@ echo $?
 echo 引数すべてを＄IFSで指定された値で区切って表示　＄＊
 echo $*
 
-echo シェルのPID　＄＄
+echo シェルのPIDを表示　＄＄
 echo $$
