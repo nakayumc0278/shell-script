@@ -1,0 +1,3 @@
+#!/bin/bash
+echo ex3 test
+echo $EX3
