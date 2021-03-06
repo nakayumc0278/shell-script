@@ -4,4 +4,5 @@ then
 	echo "success"
 else
 	echo "error"
+	exit 2
 fi
