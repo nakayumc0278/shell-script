@@ -1,3 +1,6 @@
 #!/bin/bash
-cp $1 $2
-echo copy complete
+if [ $# -eq 2 ]
+then
+    cp $1 $2
+    echo copy complete
+fi
